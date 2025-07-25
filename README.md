@@ -1,1 +1,5 @@
-# The18ShaktiPeethas
+Exploring Bharat’s Spiritual Heritage through the 18 Shakti Peethas
+
+This project presents a culturally immersive, web-based application designed to educate users about the sacred 18 Shakti Peethas of Bharat. The initiative bridges traditional spiritual knowledge with modern technology by offering categorized, topic-wise content that enhances user engagement and retention. Developed using HTML, CSS, and JavaScript, and integrated with Firebase for user authentication and data tracking, the platform also features score evaluation and automatic certificate generation for high-performing users.
+
+To enrich user interaction, a conversational chatbot has been integrated into the application, enabling users to explore information, clarify doubts, and receive guided navigation through a natural dialogue interface. The application incorporates visual elements, spiritual audio cues, responsive design, and real-time weather updates to create an authentic and devotional digital experience. Through this project, we aim to preserve, promote, and present India's spiritual heritage in an engaging and accessible format for learners, devotees, and enthusiasts across the country and beyond.
